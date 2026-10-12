@@ -1,0 +1,19 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+install.log
+
+# Node dependencies
+node_modules/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# OS and Editor files
+.DS_Store
+.vscode
+.idea
+thumbs.db
